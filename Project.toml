@@ -1,0 +1,10 @@
+name = "OpenBLASHighCoreCount_jll"
+uuid = "3a2d25a1-7f54-53f7-aded-df035e2fc6f8"
+version = "0.3.5+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"

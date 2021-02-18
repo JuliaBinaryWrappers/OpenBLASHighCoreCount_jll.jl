@@ -1,6 +1,6 @@
 name = "OpenBLASHighCoreCount_jll"
 uuid = "3a2d25a1-7f54-53f7-aded-df035e2fc6f8"
-version = "0.3.13+2"
+version = "0.3.13+3"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

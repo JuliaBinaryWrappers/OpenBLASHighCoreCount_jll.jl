@@ -1,459 +1,459 @@
 [[OpenBLASHighCoreCount]]
 arch = "aarch64"
-git-tree-sha1 = "7d630e35347926aa6bdf8bf53e75693448cc389d"
+git-tree-sha1 = "82ebf663d6ad1c7e941f04bfc6cd6c68d3f63c23"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "9763656e73c76c3de038dcf76e651d875ddc1926952a38c274d7b4463f00e18d"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "597989e7886b930195057678d8cbbf34dc7e66452ca89d70bcae1c7d75b7f083"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "aarch64"
-git-tree-sha1 = "876134ae6f374d1eef5421cb1255fa6a5cfab133"
+git-tree-sha1 = "9c7fba969cde779cf9a4461d1ec6c36896a95c45"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "f2443e01412596951e70700bccb89827ec05f52b0af4dc023d60226ed4ceb0c1"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.aarch64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "aa9e862e9c364a443eb74db7323b451ed26898d4880e72ad48612ba09fdb84a3"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "aarch64"
-git-tree-sha1 = "3128021a9c289d3c3634d6f20e34479b702c01a6"
+git-tree-sha1 = "e3fd67ef64b68f0597dd94c617b8502c852a94f2"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "584b2823c93d640a2c69bdd4075fec6dcebb7803832bc7dc412b9d9b27a7b09d"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "955677ff762fe83df694e50e51b44c579edae0f9c427cdceb764d4d58e6b56ae"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "aarch64"
-git-tree-sha1 = "a705a530c9cc578a0a9a51914748f89b016056b6"
+git-tree-sha1 = "d1df0bdb6d17593f9f1a5cc4fbb8b602b26fdc78"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "5a68c13bc86cdd1e9483f7a6a1d108df9d7359d1022a9c797b6c0a90a0538b91"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "d431824f92a1d3fc0031a6da52bf22c9f624938925e30d1305de140055ce1586"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "aarch64"
-git-tree-sha1 = "89b439411bdbbd51d0fa14ef7544ad281db750b0"
+git-tree-sha1 = "f389e6cf7964a64ac213b943209424806c993829"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "1ba63c5a9a80da4a7dd9c36a7acef45614d8d2a0279345e7c5359e60ce9f92f9"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.aarch64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "69d86b6510755a4ae92a1ee38ea0d2d206479bfa6eca79dd5da4e5aece5de066"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.aarch64-linux-musl-libgfortran3.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "aarch64"
-git-tree-sha1 = "b16aa55825b153e3d445c4feaee6edd68f5f60a1"
+git-tree-sha1 = "91bc4519731dfe0e46a1d364f1a4a9e40ec2ac3f"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "ebdb6e026f40258fb23b789827f7c32fd2d75850b3c4dc799d27c7d856e31e12"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "511a0e2a787d5a858cf214d07a7968091b72ef61829c54885783d7465fcb22d7"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.aarch64-linux-musl-libgfortran4.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "aarch64"
-git-tree-sha1 = "7447d5729f332729af3ce8d85be3c942ea1406a3"
+git-tree-sha1 = "b3717217c9da0402ef608b20297060d1f84143da"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "4189ca6122bb7f7fe0bc5f2379d1b2367479e1d737a6b57e753fbf6ad95f4035"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "2d0e0ac1fbfe6e88de5895d21a1d2516cd4f50da2f134f9d96367fe215511a36"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.aarch64-linux-musl-libgfortran5.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "44ad20fdc64c864a28f30b84e91deec52fcd4ace"
+git-tree-sha1 = "7bfb3a05459fa83adebc64e6889cf7e9233f54b6"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "610d1f8bd863ed6b4b3a3902768b09580fe225a828589cf292b4785827deb884"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "a2d5da75fa025fb15bd865a2a7c6fe66a003d8633ccec3328c6bfb041b7dd040"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "fc916fd0a65390f6d4f490d0fd21f2ff7cad93ce"
+git-tree-sha1 = "1e4ada4c9fb3186bca28c426210290be9dab24fb"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "938a90c5096ba891e1dd455c57d35fe5b0d28c50106fea2a3e42a326fac4c54d"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "8e5ba7c329f6900477a61791a2c02bdc1e9acf44486d7a17d0f9ebf85a093277"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8d11e74d8c9f677c0db2b4dd056f6c9ac0e37ab0"
+git-tree-sha1 = "c9722fbc78931dcb7758fbacbc754448397605ae"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "4978ee2c0d6d58e71a808d791614eba7f053e344821e2031e7e4e89d222ebdc2"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "0a978183c4ac9aeea66e35ff60a7343a5d61fb90dab7f432eae3efd84ebebc87"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "1ec4732ab408d985487b8a38d76c2c90c1f6099d"
+git-tree-sha1 = "26b8e92bb6535a8ab60d2cda9533f6383d685fa2"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "d8a2ea584707c09852d2c4e9f2048d7b040d341119ec1bf48aa6cc4d6c2c9921"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "e3ce83586ccf5f3d993d42447894cf5552aebced7bfdd7f5a7c80353f68474af"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.armv6l-linux-musleabihf-libgfortran3.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f28ad782468fb7d24f458dda69c340a78ce9143f"
+git-tree-sha1 = "808906b0479c1d5cd2ff66b296a8e63c13880fee"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "a5fd9ca38c5665b116336c803c9a90a81583d7dff8a9cd6b638a4501676ee056"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "76c02e0cb343cd5da22082d5f2d9e6f7ca1655cca831cfeedb8e39a9a6f1f185"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "c37ee6d1b0f6382117c0b2ca225595c0bf9b976d"
+git-tree-sha1 = "db25bde05925eca1853908f5859b49246ab20ae1"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "06016bff3e24837bba8a7c2fa171d1f9f426aa24ef0cce0a7c6926d3a1a29f8a"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "ab4b5953bdf704da76d58234ae554f1aaa9c121d6d25aec14cec4f283913bfdd"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "789906883055d1b16c4cb0a7a2e0a0eb68828c75"
+git-tree-sha1 = "7850771a890138ef3cf38bed67e1811b9bca85a4"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "90f51920ea07f0490e902c1287fe89905716296397b0aa0f4263b4a6711a4c63"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "869e82eafcfa59f656a3237b2594f3d27938f519e4a5de9b3b0e01fa99b713c0"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "066446bb28f8ce4f4c7cd5d4c708e236987c4794"
+git-tree-sha1 = "2408147a592a9944fd4751ba241521ab005310ff"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "f30e84d56efc4909c58245555d8996189fc9521525f22b25e673faf16009ff24"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "d415b0a914f7e42f57ad8dcf2c1d00ebd3c53a266beabddb91561b6ea95cfa0f"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "997617cfcb2048b6a76e13dffae030ea44cdb4f5"
+git-tree-sha1 = "77ed655ea3ab1d2f7918f6f055c6c9011b9627af"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "f209048e68cc6b51a0333126eff5071fc3ba29edec8108a80fe0329465c571ba"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "e1aa4ede464086f1a9bd3cd6f05730f942108cb8f3645a906d83c1d94cb8fa65"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "7410f338f362361504bab3150b54c1b59a16f8df"
+git-tree-sha1 = "ac531374ba81733ca76c3b0812cd6efa277351bb"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "574f213b94ac423841659399671d0c22544e2fa9e4847319f67043b8370385bf"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "f0a6d1ebfaab51164ecff700460ece93ef3f33d83b5a4958f172bdd32ec904e2"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "c53f25b3a409775931facae361404a6fd7b5d9fe"
+git-tree-sha1 = "b12a526d599b1444be2c1cf479e0391fa3bb8a08"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "2594aa12ebdbd85302cc6ce39c49ba470ddf06e989df15bb96d9b17bc941e7cf"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "7349a28d9fecdd5dbcf8be472b57819371625d56780d749c0489ce42508f2775"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8414045855ed8c56deca6587a5e27dd1000520d4"
+git-tree-sha1 = "b3043a657e96a0789337275b5f661e5a25bcced2"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "137786eeeed5d3a9b1b508cbb3b25cb6ac6884cde650fdc7f083fad84fe2c115"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "fd4ab7c6a3d154ba05e201ffda51d178b87e32154c4b9b00084932ddda1b302b"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "i686"
-git-tree-sha1 = "5ffbf89724708d409825e032970b86c79ed065f8"
+git-tree-sha1 = "3482e955540c6b41516b7ce850188bd3ef6906ef"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "9827da245bc230da586558d527c37a1f4e556cb59643401ff6e3c2c8f9616cfd"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.i686-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "30ec0d9c70e8f0735592256136bb5d19315b4b8dbf9ce4cb0a40ffa158f65ef3"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.i686-linux-gnu-libgfortran3.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "i686"
-git-tree-sha1 = "03ad008fc848348ac935334ccdfc2c36df65eb7d"
+git-tree-sha1 = "33fba51c3cff6b977f96889cadd4f75982f739aa"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "a3b93f825d4c3d41bba519d874850e320b476c9b8c7e68ddfce35347d1e72f6c"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "03845467fc232d60787acc9c73621acc15702e9c63e8ce2abac226eb8f2199f2"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.i686-linux-gnu-libgfortran4.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "i686"
-git-tree-sha1 = "e57f1420e8efb7164adfa4c697329e212105f690"
+git-tree-sha1 = "3fa02677baaa666924155f06f6b94f6162d0e2e0"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "bd9d8b2aca418da4fbe1975fbc6b55de7f20a28d36ac05219c7722f06c3009f8"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "7c8420fb8e6fd09c3e60a4e3dedf5a2e5bd1e9b3b29dbda0dfea429497f75ede"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.i686-linux-gnu-libgfortran5.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "i686"
-git-tree-sha1 = "ec1b229766daadf37033fe41ff6ef1db2addd276"
+git-tree-sha1 = "1f474504ec5bbadfaedbe3f95c36ac2b11d61b14"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "24d92e49b949d89f12c7ab0e15117d8d0c8731c60eeff8b6022d63e8ad83a7c2"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.i686-linux-musl-libgfortran3.tar.gz"
+    sha256 = "e72594a9bc6dddca132e6ede37e988187af8ac151bdda2767d2213045e83335e"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.i686-linux-musl-libgfortran3.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "i686"
-git-tree-sha1 = "1b6a485d373df594bc88c164bb270391eeecfdf8"
+git-tree-sha1 = "b6018fcdf637db4a57ce06f89f22354ab377cc07"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "2a006be914b531db6d830e4246f0033d81bc98eab312ce4f5c7d223c8a9fa5e3"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "d06115e16f5c8e26f5bbd250f276ae15e83556f287efa28f8a61558e090006fe"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.i686-linux-musl-libgfortran4.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "i686"
-git-tree-sha1 = "642e250e9657c4a624a3e440d9eecc31313410db"
+git-tree-sha1 = "0a8ea3e07a6031b83ebee04ae77ed815f7cd7685"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "998a5cfb6463670183bb308dd503b8c688ed5ff3b65ebab72eba118c1e2058c6"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "43081be864f1423773d40a9dccf06a025ad974baecc371c2ce97811cb95aa880"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.i686-linux-musl-libgfortran5.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "i686"
-git-tree-sha1 = "79335a3f5a256b2a79ad4304500b9016421a1f05"
+git-tree-sha1 = "20e9b2f1ef16278f9f7e0f2d364fd5d67182d0db"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "6f63c322f4171ffe0c2a6010ed031ce3c3507b48840670187287dd666a77cfa8"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.i686-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "48a411b274eb87e5ae5cede83cd429b3b90fc1e7023ca6cf6828d1cf90f5e006"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.i686-w64-mingw32-libgfortran3.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "i686"
-git-tree-sha1 = "14c70fe9511129f4fd87e773c2fbacb81d4293fd"
+git-tree-sha1 = "a6ac446b5c97d1fa0e48c30423f7d2d747ca0d95"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "088b141d45c1d5f799d220763402a7e1df50cdf4082f4e22b0f25815d3885783"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "ed8ca689f63ab20596d6f0e42658514a4715482a8630dd9d8fca0738580d4997"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.i686-w64-mingw32-libgfortran4.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "i686"
-git-tree-sha1 = "5c8054f7250a62f19ea9062a746504bdd9eccbd5"
+git-tree-sha1 = "4150f98e78ec4c9338edfc4127cc2e3546e27c69"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "f0975eb960229033054de7e4eddba7fb533f42a9c7b49c216d8f275cca25231a"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "3ea01b2b1002c0cd71126ca8de1348090e9d2b83d554c8a3554a50c4ae92bd64"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.i686-w64-mingw32-libgfortran5.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "powerpc64le"
-git-tree-sha1 = "524609181286042b3a4e63dbb29d654e99fd0c6c"
+git-tree-sha1 = "ac606a9154c3ee71d9193707eac222663a2813ea"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "82403669ddb864c58d579aed0c7f858ed9dd3d207c5a608f98051a9e2d6d247f"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "08301ac0b5cd59b996c94425861c783a22fae5003c8e64e7174c3d09d3537bb1"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "powerpc64le"
-git-tree-sha1 = "a78e4d8f5139df4fec7d7bd31c0df12eeafe70b9"
+git-tree-sha1 = "079db1cbe56bad365826940c212ba38de6be3a95"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "9a6b60042ccd748fdf5ef57c3a9e353421edcf3895c198f86eb625e46e066ad7"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "3339d13f411cdabaa219488cb43d98b6b4148211c42c14f7eba90ed8b4533196"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "powerpc64le"
-git-tree-sha1 = "067aa65d60c22d8e44a6adb744e09688efa4f591"
+git-tree-sha1 = "38435fc2af6b4c78e648bae081ab224ff733b1a4"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "365d216cf467862d9d9438e107f91bc4842b0cea17a64c712a8ec10a3072f1d4"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "b479b67831622d14aa743908d94ac9a37400c53e6006fdecbab6f8314d266af4"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "x86_64"
-git-tree-sha1 = "6cef931a898806ca7fb1270588ee1798b41fd019"
+git-tree-sha1 = "46f801eb9193e606790667293f8661021c4fcab4"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "99fead6c05045fa3dd33b3cfda7acf2993722346d735e360ca33d24de88f0701"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.x86_64-apple-darwin-libgfortran3.tar.gz"
+    sha256 = "fdc35491735581bb370e12863db7aff8d52a96043b9fb7cddc9458235ff63ca9"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "x86_64"
-git-tree-sha1 = "72f23d7ede72a01761103f07451439b26a8aa4eb"
+git-tree-sha1 = "67d852dfea99f2952abdeb7d8fcb914fbdaffa19"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "ba39a4dc8dfc03c0f168e5eb58341b925f12947bbb9ecfc1ac4d17afdcf60897"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "ef72474a92159c36c9ed0567a6069f6bbd76a1d891a6f1beb66b387dcadb9326"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "x86_64"
-git-tree-sha1 = "b5cb6e212174eb05a2001352104ff556f479dac5"
+git-tree-sha1 = "b89ed2882198c90a81377da2917390b667628585"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "a25771567d316f299b05a9056c4c4222aac834a3ef285cd37b1e66e5de6c22ed"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "a90a18800fb3818ab202cbfff2d341bdea49c654a9b526d865fcd06ab259ba24"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "x86_64"
-git-tree-sha1 = "db55c43cde9b0279d3c265410816bdcc245a4fb0"
+git-tree-sha1 = "330f946f9251896d9c5cec0d766f714394576cd1"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "fc2dca077d966c5d4a53ac0af3bf850593b06f9c550f93aa389357a10bb94e6b"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "c258fe5cb1ca03be8e512879d26112bae3ffc99e1873c9b4693c4b5ae1f29d8a"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "x86_64"
-git-tree-sha1 = "c0160f76fe577c1476d2de50ccb695c84d45af34"
+git-tree-sha1 = "1db90d48cba3beba630768a3c9620e006d90c4e8"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "32cbefb5bd5411dee86c7f7ca9f579c81c198f0f35939d7fa92fdba9b8f43b97"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "4c91c8ef5e66cb796ee4f578a84284f98778ba3a414918521798ba3b9b5dff6c"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "x86_64"
-git-tree-sha1 = "90e4dae36b32912c0e0b5f1111acb35a8aba7587"
+git-tree-sha1 = "d744e2591a4e8c2b82ce346edc73732515b0f410"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "49703425c851add87ac593743878b953908667f48512c89b3c77b27df71b828c"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "4866e36e939b67f1fda1507919afa3856c180c8faae983961022897b85010647"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "x86_64"
-git-tree-sha1 = "7fc194b6f3d359a9f809539039478d78fa3a04cd"
+git-tree-sha1 = "004e64fcfe3ac8c8927b5d7d8f3d3f3c8be78946"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "6ad5978c1694961357eb2cddb4d7a422d08a08bd8e4965e111d8dd1494c97c0f"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "2ad3778fedaa66e4dd7dda39d1c858789cc723d6a6ac4728881839fcb47061e2"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.x86_64-linux-musl-libgfortran3.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "x86_64"
-git-tree-sha1 = "f6a4367aee527feddf0987ebb0aa3c341b3f9103"
+git-tree-sha1 = "5b973b5d5f643d9616e7c40542b89e6b42d178c8"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "e6f785116b145b5aba2e5a7974dafb429818a8b7607a6cfb623089d91a605cdc"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "0b90f87b6b651e9924fdb97b553d1fe45669d540c822edbe9b3d715d15a7783e"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.x86_64-linux-musl-libgfortran4.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "x86_64"
-git-tree-sha1 = "979ff704a4ee350b87d23098a58a8c12238ccc38"
+git-tree-sha1 = "ca1c9ace20b8334ab5237e18ca9c4749b8b9a61e"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "2a5e26a73468ed1d115d958c92872ca1cb71871c7defe3ac5f62238d1ae23722"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "3da03e4cbed689590a99bf2a983a08dc8f0a846e465f37ae8966172e9eff2bbf"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.x86_64-linux-musl-libgfortran5.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "x86_64"
-git-tree-sha1 = "038c8e9a6de5d18b332f90b378e8bb3896b3a8e0"
+git-tree-sha1 = "6151fbefa816e4b984abb26b1b97f78ea93c9681"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "7ca5f3d9fe3414f40bcf47d976da20b273830778d8bebdf0360aa9bf4c55ac01"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+    sha256 = "500c380a090c00d46747e9796c86a112bb8330a0e2a3ed99855aa0f5dbc19e99"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "x86_64"
-git-tree-sha1 = "2489c07650458e578d26bc3cb76a938ff0d099c5"
+git-tree-sha1 = "3a829f8317484449c01edf23e45509d2ca115eb9"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "8bd089ad6911c119794c9b84277135d2a4a2cd8f859c34c0bfb4ac18d2121f65"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "054d83d1cc00ae4335767df5df7675a8233132b633647352fc656ffb03152d39"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "x86_64"
-git-tree-sha1 = "a7e63efe749d100fd52f7283861a77694236ba81"
+git-tree-sha1 = "63fce134d98d57a419be1eeb87920503ade14540"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "a0a7e20065b36c1557e9cf2075726161b4f3668792578b0b0b27fda5af70bb28"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "624d86ee19efb0e9f436fe4f0b355d9c324f694f2c724922d45dde3084db1efa"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "x86_64"
-git-tree-sha1 = "f4621c37d2a04c3611b2026387f60d676f32fefd"
+git-tree-sha1 = "a40fcc81b19ed44876f93eb610e145a2e206e714"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "5baace325c41b3bb5643464946745c4c64520c5772ab01980787ef935ca3c047"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "228512ec386aa7fd65eb626e9b7e9800be7faa562327359e106358c59098bf5a"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "x86_64"
-git-tree-sha1 = "dfc414ceb892ed2fe6686b61146de06b39c0745e"
+git-tree-sha1 = "3fcc2d4215c8ac2e10339744be477f5d7e7141ad"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "ffefe1f4232e51a72deb410a066018535a204b329cd46e1da21779aee33a4371"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "5a7cbe227e62c98ae95d8b54a78edacc8be916e2f3818db9dc7b2461835dbbe6"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[OpenBLASHighCoreCount]]
 arch = "x86_64"
-git-tree-sha1 = "cc76f9517d3da0c6409174a733642957c51fab9d"
+git-tree-sha1 = "86534896389bd78c1bd9e1bb0b5d48101be55f89"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[OpenBLASHighCoreCount.download]]
-    sha256 = "405af805bbf0b2d83fc6366b1628ab5be4dc5ae343bb5490bd2bcc8c8353d9e9"
-    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.13+7/OpenBLASHighCoreCount.v0.3.13.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "f5ff40c678928ca44d90870e4c43fa3190635f6e31c763f1a3df76d3603de70f"
+    url = "https://github.com/JuliaBinaryWrappers/OpenBLASHighCoreCount_jll.jl/releases/download/OpenBLASHighCoreCount-v0.3.17+0/OpenBLASHighCoreCount.v0.3.17.x86_64-w64-mingw32-libgfortran5.tar.gz"
